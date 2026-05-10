@@ -1,0 +1,818 @@
+# YouTube Creator Economy Intelligence Platform
+# 200 Channels: ~70% Indonesia, ~30% Global
+# Niches: Gaming, Tech, Education, Music
+
+gaming:
+  # === INDONESIA (35 channels) ===
+  - name: "Jess No Limit"
+    url: "https://www.youtube.com/@jessnolimit"
+    region: ID
+
+  - name: "Frost Diamond"
+    url: "https://www.youtube.com/@FrostDiamond"
+    region: ID
+
+  - name: "MiawAug"
+    url: "https://www.youtube.com/@MiawAug"
+    region: ID
+
+  - name: "Windah Basudara"
+    url: "https://www.youtube.com/@WindahBasudara"
+    region: ID
+
+  - name: "Dyland PROS"
+    url: "https://www.youtube.com/@DylandPROS"
+    region: ID
+
+  - name: "Kemas Pake Z"
+    url: "https://www.youtube.com/@KemasPakeZ"
+    region: ID
+
+  - name: "Letda Hyper"
+    url: "https://www.youtube.com/@LetdaHyper"
+    region: ID
+
+  - name: "BangAlex"
+    url: "https://www.youtube.com/@BangAlex"
+    region: ID
+
+  - name: "EJGaming"
+    url: "https://www.youtube.com/@EJGaming"
+    region: ID
+
+  - name: "Budi01 Gaming"
+    url: "https://www.youtube.com/@Budi01Gaming"
+    region: ID
+
+  - name: "FrontaL Gaming"
+    url: "https://www.youtube.com/@FrontaLGaming"
+    region: ID
+
+  - name: "Zenmatho"
+    url: "https://www.youtube.com/@Zenmatho"
+    region: ID
+
+  - name: "BeaconCream"
+    url: "https://www.youtube.com/@BeaconCream"
+    region: ID
+
+  - name: "Nafarin TV"
+    url: "https://www.youtube.com/@NafarinTV"
+    region: ID
+
+  - name: "Sans SMP"
+    url: "https://www.youtube.com/@SansSMP"
+    region: ID
+
+  - name: "Teiron"
+    url: "https://www.youtube.com/@Teiron"
+    region: ID
+
+  - name: "EVOS Esports"
+    url: "https://www.youtube.com/@EVOSEsports"
+    region: ID
+
+  - name: "ONIC Esports"
+    url: "https://www.youtube.com/@ONICEsports"
+    region: ID
+
+  - name: "RRQ"
+    url: "https://www.youtube.com/@teamrrq"
+    region: ID
+
+  - name: "Bigetron Esports"
+    url: "https://www.youtube.com/@BigetronEsports"
+    region: ID
+
+  - name: "Alter Ego"
+    url: "https://www.youtube.com/@AlterEgoEsports"
+    region: ID
+
+  - name: "MOLE TV"
+    url: "https://www.youtube.com/@MOLETV"
+    region: ID
+
+  - name: "Oura Gaming"
+    url: "https://www.youtube.com/@OuraGaming"
+    region: ID
+
+  - name: "Zuxxy Gaming"
+    url: "https://www.youtube.com/@ZuxxyGaming"
+    region: ID
+
+  - name: "LJ Gaming"
+    url: "https://www.youtube.com/@LJGaming"
+    region: ID
+
+  - name: "Watchout Gaming"
+    url: "https://www.youtube.com/@WatchoutGaming"
+    region: ID
+
+  - name: "Mas Sabar"
+    url: "https://www.youtube.com/@MasSabar"
+    region: ID
+
+  - name: "Atunink"
+    url: "https://www.youtube.com/@Atunink"
+    region: ID
+
+  - name: "NightD"
+    url: "https://www.youtube.com/@NightD"
+    region: ID
+
+  - name: "Fandra"
+    url: "https://www.youtube.com/@Fandra"
+    region: ID
+
+  - name: "Patrick Gaming"
+    url: "https://www.youtube.com/@PatrickGaming"
+    region: ID
+
+  - name: "Naruto Jowo"
+    url: "https://www.youtube.com/@NarutoJowo"
+    region: ID
+
+  - name: "Fatih Gamer"
+    url: "https://www.youtube.com/@FatihGamer"
+    region: ID
+
+  - name: "Kimi Hime"
+    url: "https://www.youtube.com/@KimiHime"
+    region: ID
+
+  - name: "Milyhya"
+    url: "https://www.youtube.com/@Milyhya"
+    region: ID
+
+  # === GLOBAL (15 channels) ===
+  - name: "PewDiePie"
+    url: "https://www.youtube.com/@PewDiePie"
+    region: GLOBAL
+
+  - name: "MrBeast Gaming"
+    url: "https://www.youtube.com/@MrBeastGaming"
+    region: GLOBAL
+
+  - name: "Markiplier"
+    url: "https://www.youtube.com/@markiplier"
+    region: GLOBAL
+
+  - name: "Jacksepticeye"
+    url: "https://www.youtube.com/@jacksepticeye"
+    region: GLOBAL
+
+  - name: "Shroud"
+    url: "https://www.youtube.com/@shroud"
+    region: GLOBAL
+
+  - name: "Ninja"
+    url: "https://www.youtube.com/@Ninja"
+    region: GLOBAL
+
+  - name: "Valkyrae"
+    url: "https://www.youtube.com/@Valkyrae"
+    region: GLOBAL
+
+  - name: "Ludwig"
+    url: "https://www.youtube.com/@ludwig"
+    region: GLOBAL
+
+  - name: "SkillUp"
+    url: "https://www.youtube.com/@SkillUp"
+    region: GLOBAL
+
+  - name: "Gameranx"
+    url: "https://www.youtube.com/@gameranx"
+    region: GLOBAL
+
+  - name: "theRadBrad"
+    url: "https://www.youtube.com/@theRadBrad"
+    region: GLOBAL
+
+  - name: "IGN"
+    url: "https://www.youtube.com/@IGN"
+    region: GLOBAL
+
+  - name: "GameSpot"
+    url: "https://www.youtube.com/@GameSpot"
+    region: GLOBAL
+
+  - name: "Asmongold"
+    url: "https://www.youtube.com/@AsmongoldTV"
+    region: GLOBAL
+
+  - name: "Pokimane"
+    url: "https://www.youtube.com/@pokimanelol"
+    region: GLOBAL
+
+
+tech:
+  # === INDONESIA (25 channels) ===
+  - name: "GadgetIn"
+    url: "https://www.youtube.com/@GadgetIn"
+    region: ID
+
+  - name: "Jagat Review"
+    url: "https://www.youtube.com/@JagatReview"
+    region: ID
+
+  - name: "David Brendi"
+    url: "https://www.youtube.com/@DavidBrendi"
+    region: ID
+
+  - name: "Pricebook"
+    url: "https://www.youtube.com/@Pricebook"
+    region: ID
+
+  - name: "Nerd Reviews"
+    url: "https://www.youtube.com/@NerdReviews"
+    region: ID
+
+  - name: "FlashGadget"
+    url: "https://www.youtube.com/@FlashGadget"
+    region: ID
+
+  - name: "Bestindotech"
+    url: "https://www.youtube.com/@bestindotech"
+    region: ID
+
+  - name: "Putu Reza"
+    url: "https://www.youtube.com/@PutuReza"
+    region: ID
+
+  - name: "Gadgetpedia"
+    url: "https://www.youtube.com/@Gadgetpedia"
+    region: ID
+
+  - name: "Kohcun"
+    url: "https://www.youtube.com/@kohcun"
+    region: ID
+
+  - name: "Kepoin Tekno"
+    url: "https://www.youtube.com/@KepoinTekno"
+    region: ID
+
+  - name: "LukmanTekno"
+    url: "https://www.youtube.com/@LukmanTekno"
+    region: ID
+
+  - name: "KompasTekno"
+    url: "https://www.youtube.com/@KompasTekno"
+    region: ID
+
+  - name: "Teras Box"
+    url: "https://www.youtube.com/@TerasBox"
+    region: ID
+
+  - name: "IndoTechKer"
+    url: "https://www.youtube.com/@IndoTechKer"
+    region: ID
+
+  - name: "Wasa Gadget"
+    url: "https://www.youtube.com/@WasaGadget"
+    region: ID
+
+  - name: "Sobat Digital"
+    url: "https://www.youtube.com/@SobatDigital"
+    region: ID
+
+  - name: "Gadget Story"
+    url: "https://www.youtube.com/@GadgetStory"
+    region: ID
+
+  - name: "Riswan Zone"
+    url: "https://www.youtube.com/@RiswanZone"
+    region: ID
+
+  - name: "Unbox ID"
+    url: "https://www.youtube.com/@UnboxID"
+    region: ID
+
+  - name: "Tech In Asia ID"
+    url: "https://www.youtube.com/@TechinAsiaID"
+    region: ID
+
+  - name: "Didik Handoko"
+    url: "https://www.youtube.com/@DidikHandoko"
+    region: ID
+
+  - name: "Agung Hapsah"
+    url: "https://www.youtube.com/@AgungHapsah"
+    region: ID
+
+  - name: "BangjoeTV"
+    url: "https://www.youtube.com/@BangjoeTV"
+    region: ID
+
+  - name: "Deden Tekno"
+    url: "https://www.youtube.com/@DedenTekno"
+    region: ID
+
+  # === GLOBAL (25 channels) ===
+  - name: "MKBHD"
+    url: "https://www.youtube.com/@mkbhd"
+    region: GLOBAL
+
+  - name: "Linus Tech Tips"
+    url: "https://www.youtube.com/@LinusTechTips"
+    region: GLOBAL
+
+  - name: "Dave2D"
+    url: "https://www.youtube.com/@Dave2D"
+    region: GLOBAL
+
+  - name: "JerryRigEverything"
+    url: "https://www.youtube.com/@JerryRigEverything"
+    region: GLOBAL
+
+  - name: "Unbox Therapy"
+    url: "https://www.youtube.com/@UnboxTherapy"
+    region: GLOBAL
+
+  - name: "Austin Evans"
+    url: "https://www.youtube.com/@AustinEvans"
+    region: GLOBAL
+
+  - name: "iJustine"
+    url: "https://www.youtube.com/@iJustine"
+    region: GLOBAL
+
+  - name: "The Verge"
+    url: "https://www.youtube.com/@TheVerge"
+    region: GLOBAL
+
+  - name: "CNET"
+    url: "https://www.youtube.com/@CNET"
+    region: GLOBAL
+
+  - name: "Mrwhosetheboss"
+    url: "https://www.youtube.com/@Mrwhosetheboss"
+    region: GLOBAL
+
+  - name: "ShortCircuit"
+    url: "https://www.youtube.com/@ShortCircuit"
+    region: GLOBAL
+
+  - name: "Hardware Canucks"
+    url: "https://www.youtube.com/@HardwareCanucks"
+    region: GLOBAL
+
+  - name: "Gamers Nexus"
+    url: "https://www.youtube.com/@GamersNexus"
+    region: GLOBAL
+
+  - name: "Lew Later"
+    url: "https://www.youtube.com/@LewLater"
+    region: GLOBAL
+
+  - name: "TechLinked"
+    url: "https://www.youtube.com/@TechLinked"
+    region: GLOBAL
+
+  - name: "Marques Brownlee"
+    url: "https://www.youtube.com/@marquesbrownlee2"
+    region: GLOBAL
+
+  - name: "Tailosive Tech"
+    url: "https://www.youtube.com/@TailosiveTech"
+    region: GLOBAL
+
+  - name: "Max Tech"
+    url: "https://www.youtube.com/@MaxTech"
+    region: GLOBAL
+
+  - name: "Snazzy Labs"
+    url: "https://www.youtube.com/@SnazzyLabs"
+    region: GLOBAL
+
+  - name: "Jarrod's Tech"
+    url: "https://www.youtube.com/@JarrodsTech"
+    region: GLOBAL
+
+  - name: "Techquickie"
+    url: "https://www.youtube.com/@Techquickie"
+    region: GLOBAL
+
+  - name: "Lon.TV"
+    url: "https://www.youtube.com/@LonSeidman"
+    region: GLOBAL
+
+  - name: "Sara Dietschy"
+    url: "https://www.youtube.com/@SaraDietschy"
+    region: GLOBAL
+
+  - name: "Matt Wolfe"
+    url: "https://www.youtube.com/@MattVidPro"
+    region: GLOBAL
+
+  - name: "Fireship"
+    url: "https://www.youtube.com/@Fireship"
+    region: GLOBAL
+
+
+education:
+  # === INDONESIA (20 channels) ===
+  - name: "Kok Bisa?"
+    url: "https://www.youtube.com/@KokBisa"
+    region: ID
+
+  - name: "Hujan Tanda Tanya"
+    url: "https://www.youtube.com/@HujanTandaTanya"
+    region: ID
+
+  - name: "Satu Persen"
+    url: "https://www.youtube.com/@SatuPersen"
+    region: ID
+
+  - name: "Zenius"
+    url: "https://www.youtube.com/@Zenius"
+    region: ID
+
+  - name: "Ruangguru"
+    url: "https://www.youtube.com/@Ruangguru"
+    region: ID
+
+  - name: "Invoice Indonesia"
+    url: "https://www.youtube.com/@InvoiceIndonesia"
+    region: ID
+
+  - name: "Gita Wirjawan"
+    url: "https://www.youtube.com/@GitaWirjawan"
+    region: ID
+
+  - name: "Nussa Official"
+    url: "https://www.youtube.com/@NussaOfficial"
+    region: ID
+
+  - name: "BaLiTa"
+    url: "https://www.youtube.com/@BabaLiliTata"
+    region: ID
+
+  - name: "Kastari Sentra"
+    url: "https://www.youtube.com/@KastariSentra"
+    region: ID
+
+  - name: "Kinderflix"
+    url: "https://www.youtube.com/@Kinderflix"
+    region: ID
+
+  - name: "Eno Bening"
+    url: "https://www.youtube.com/@EnoBening"
+    region: ID
+
+  - name: "Inspect History"
+    url: "https://www.youtube.com/@InspectHistory"
+    region: ID
+
+  - name: "Jago Fisika"
+    url: "https://www.youtube.com/@JagoFisika"
+    region: ID
+
+  - name: "Quipper Indonesia"
+    url: "https://www.youtube.com/@QuipperIndonesia"
+    region: ID
+
+  - name: "Indonesia Belajar"
+    url: "https://www.youtube.com/@IndonesiaBelajar"
+    region: ID
+
+  - name: "Sang Pencerah"
+    url: "https://www.youtube.com/@SangPencerah"
+    region: ID
+
+  - name: "Kelas Pintar"
+    url: "https://www.youtube.com/@KelasPintar"
+    region: ID
+
+  - name: "Fisika dan Matematika"
+    url: "https://www.youtube.com/@FisikadanMatematika"
+    region: ID
+
+  - name: "Ayo Belajar"
+    url: "https://www.youtube.com/@AyoBelajar"
+    region: ID
+
+  # === GLOBAL (30 channels) ===
+  - name: "Kurzgesagt"
+    url: "https://www.youtube.com/@kurzgesagt"
+    region: GLOBAL
+
+  - name: "Veritasium"
+    url: "https://www.youtube.com/@veritasium"
+    region: GLOBAL
+
+  - name: "3Blue1Brown"
+    url: "https://www.youtube.com/@3blue1brown"
+    region: GLOBAL
+
+  - name: "CrashCourse"
+    url: "https://www.youtube.com/@crashcourse"
+    region: GLOBAL
+
+  - name: "Khan Academy"
+    url: "https://www.youtube.com/@khanacademy"
+    region: GLOBAL
+
+  - name: "Vsauce"
+    url: "https://www.youtube.com/@Vsauce"
+    region: GLOBAL
+
+  - name: "TED-Ed"
+    url: "https://www.youtube.com/@TEDEd"
+    region: GLOBAL
+
+  - name: "SmarterEveryDay"
+    url: "https://www.youtube.com/@smartereveryday"
+    region: GLOBAL
+
+  - name: "MinutePhysics"
+    url: "https://www.youtube.com/@MinutePhysics"
+    region: GLOBAL
+
+  - name: "SciShow"
+    url: "https://www.youtube.com/@SciShow"
+    region: GLOBAL
+
+  - name: "Mark Rober"
+    url: "https://www.youtube.com/@MarkRober"
+    region: GLOBAL
+
+  - name: "Numberphile"
+    url: "https://www.youtube.com/@numberphile"
+    region: GLOBAL
+
+  - name: "Physics Girl"
+    url: "https://www.youtube.com/@physicsgirl"
+    region: GLOBAL
+
+  - name: "Real Engineering"
+    url: "https://www.youtube.com/@RealEngineering"
+    region: GLOBAL
+
+  - name: "CGP Grey"
+    url: "https://www.youtube.com/@CGPGrey"
+    region: GLOBAL
+
+  - name: "Wendover Productions"
+    url: "https://www.youtube.com/@Wendoverproductions"
+    region: GLOBAL
+
+  - name: "Tom Scott"
+    url: "https://www.youtube.com/@TomScottGo"
+    region: GLOBAL
+
+  - name: "Polymatter"
+    url: "https://www.youtube.com/@PolyMatter"
+    region: GLOBAL
+
+  - name: "Half as Interesting"
+    url: "https://www.youtube.com/@halfasinteresting"
+    region: GLOBAL
+
+  - name: "Joe Scott"
+    url: "https://www.youtube.com/@joescott"
+    region: GLOBAL
+
+  - name: "Computerphile"
+    url: "https://www.youtube.com/@Computerphile"
+    region: GLOBAL
+
+  - name: "AsapSCIENCE"
+    url: "https://www.youtube.com/@AsapSCIENCE"
+    region: GLOBAL
+
+  - name: "MIT OpenCourseWare"
+    url: "https://www.youtube.com/@mitocw"
+    region: GLOBAL
+
+  - name: "Domain of Science"
+    url: "https://www.youtube.com/@DomainofScience"
+    region: GLOBAL
+
+  - name: "NileRed"
+    url: "https://www.youtube.com/@NileRed"
+    region: GLOBAL
+
+  - name: "Steve Mould"
+    url: "https://www.youtube.com/@SteveMould"
+    region: GLOBAL
+
+  - name: "Up and Atom"
+    url: "https://www.youtube.com/@upandatom"
+    region: GLOBAL
+
+  - name: "Primer"
+    url: "https://www.youtube.com/@PrimerBlobs"
+    region: GLOBAL
+
+  - name: "Practical Engineering"
+    url: "https://www.youtube.com/@PracticalEngineeringChannel"
+    region: GLOBAL
+
+  - name: "Sabine Hossenfelder"
+    url: "https://www.youtube.com/@SabineHossenfelder"
+    region: GLOBAL
+
+
+music:
+  # === INDONESIA (35 channels) ===
+  - name: "NAGASWARA Official"
+    url: "https://www.youtube.com/@ABORRECORDS"
+    region: ID
+
+  - name: "Trinity Optima Production"
+    url: "https://www.youtube.com/@trinityoptima"
+    region: ID
+
+  - name: "Musica Studios"
+    url: "https://www.youtube.com/@MusicaStudios"
+    region: ID
+
+  - name: "Mahalini"
+    url: "https://www.youtube.com/@Mahalini"
+    region: ID
+
+  - name: "Tiara Andini"
+    url: "https://www.youtube.com/@TiaraAndini"
+    region: ID
+
+  - name: "Fiersa Besari"
+    url: "https://www.youtube.com/@FiersaBesari"
+    region: ID
+
+  - name: "Weird Genius"
+    url: "https://www.youtube.com/@WeirdGenius"
+    region: ID
+
+  - name: "NOAH"
+    url: "https://www.youtube.com/@NOAHofficial"
+    region: ID
+
+  - name: "Judika"
+    url: "https://www.youtube.com/@Judika"
+    region: ID
+
+  - name: "Rizky Febian"
+    url: "https://www.youtube.com/@RizkyFebian"
+    region: ID
+
+  - name: "Lyodra"
+    url: "https://www.youtube.com/@Lyodra"
+    region: ID
+
+  - name: "Raisa"
+    url: "https://www.youtube.com/@Raisa6690"
+    region: ID
+
+  - name: "Tulus"
+    url: "https://www.youtube.com/@Tulus"
+    region: ID
+
+  - name: "Nadin Amizah"
+    url: "https://www.youtube.com/@NadinAmizah"
+    region: ID
+
+  - name: "Hindia"
+    url: "https://www.youtube.com/@Hindia"
+    region: ID
+
+  - name: "Idgitaf"
+    url: "https://www.youtube.com/@Idgitaf"
+    region: ID
+
+  - name: "Fabio Asher"
+    url: "https://www.youtube.com/@FabioAsher"
+    region: ID
+
+  - name: "Bernadya"
+    url: "https://www.youtube.com/@Bernadya"
+    region: ID
+
+  - name: "Yura Yunita"
+    url: "https://www.youtube.com/@YuraYunita"
+    region: ID
+
+  - name: "Andmesh"
+    url: "https://www.youtube.com/@Andmesh"
+    region: ID
+
+  - name: "Denny Caknan"
+    url: "https://www.youtube.com/@DennyCaknan"
+    region: ID
+
+  - name: "Happy Asmara"
+    url: "https://www.youtube.com/@HappyAsmara"
+    region: ID
+
+  - name: "NIKI"
+    url: "https://www.youtube.com/@NIKIofficial"
+    region: ID
+
+  - name: "Rich Brian"
+    url: "https://www.youtube.com/@richbrian"
+    region: ID
+
+  - name: "MALIQ & D'Essentials"
+    url: "https://www.youtube.com/@MALIQandDEssentials"
+    region: ID
+
+  - name: "Pamungkas"
+    url: "https://www.youtube.com/@Pamungkas"
+    region: ID
+
+  - name: "Sal Priadi"
+    url: "https://www.youtube.com/@SalPriadi"
+    region: ID
+
+  - name: "Ardhito Pramono"
+    url: "https://www.youtube.com/@ArdhitoPramono"
+    region: ID
+
+  - name: "Danilla"
+    url: "https://www.youtube.com/@Danilla"
+    region: ID
+
+  - name: "Kahitna"
+    url: "https://www.youtube.com/@Kahitna"
+    region: ID
+
+  - name: "Sheila On 7"
+    url: "https://www.youtube.com/@SheilaOn7"
+    region: ID
+
+  - name: "Iwan Fals"
+    url: "https://www.youtube.com/@IwanFals"
+    region: ID
+
+  - name: "Glenn Fredly"
+    url: "https://www.youtube.com/@GlennFredly"
+    region: ID
+
+  - name: "Isyana Sarasvati"
+    url: "https://www.youtube.com/@IsyanaSarasvati"
+    region: ID
+
+  - name: "GAC (Gamaliel Audrey Cantika)"
+    url: "https://www.youtube.com/@GACmusic"
+    region: ID
+
+  # === GLOBAL (15 channels) ===
+  - name: "T-Series"
+    url: "https://www.youtube.com/@tsaborecords"
+    region: GLOBAL
+
+  - name: "HYBE LABELS"
+    url: "https://www.youtube.com/@HIKIKOMORI"
+    region: GLOBAL
+
+  - name: "JYP Entertainment"
+    url: "https://www.youtube.com/@jaborecords"
+    region: GLOBAL
+
+  - name: "BLACKPINK"
+    url: "https://www.youtube.com/@BLACKPINK"
+    region: GLOBAL
+
+  - name: "BTS"
+    url: "https://www.youtube.com/@BANGTANTV"
+    region: GLOBAL
+
+  - name: "Ed Sheeran"
+    url: "https://www.youtube.com/@EdSheeran"
+    region: GLOBAL
+
+  - name: "Justin Bieber"
+    url: "https://www.youtube.com/@justinbieber"
+    region: GLOBAL
+
+  - name: "Taylor Swift"
+    url: "https://www.youtube.com/@TaylorSwift"
+    region: GLOBAL
+
+  - name: "Billie Eilish"
+    url: "https://www.youtube.com/@BillieEilish"
+    region: GLOBAL
+
+  - name: "Dua Lipa"
+    url: "https://www.youtube.com/@DuaLipa"
+    region: GLOBAL
+
+  - name: "The Weeknd"
+    url: "https://www.youtube.com/@TheWeeknd"
+    region: GLOBAL
+
+  - name: "Bruno Mars"
+    url: "https://www.youtube.com/@BrunoMars"
+    region: GLOBAL
+
+  - name: "Coldplay"
+    url: "https://www.youtube.com/@coldplay"
+    region: GLOBAL
+
+  - name: "Maroon 5"
+    url: "https://www.youtube.com/@Maroon5"
+    region: GLOBAL
+
+  - name: "Imagine Dragons"
+    url: "https://www.youtube.com/@ImagineDragons"
+    region: GLOBAL

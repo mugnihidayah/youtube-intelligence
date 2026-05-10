@@ -1,0 +1,857 @@
+education:
+- channel_id: null
+  name: Kok Bisa?
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@KokBisa
+- channel_id: null
+  name: Hujan Tanda Tanya
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@HujanTandaTanya
+- channel_id: UC_eifcIIjgN8Q_8m34nWo3Q
+  name: Satu Persen - Indonesian Life School
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q
+- channel_id: UCPFc7-vFol1QBMZxw62w_Hw
+  name: Zenius
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCPFc7-vFol1QBMZxw62w_Hw
+- channel_id: null
+  name: Ruangguru
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Ruangguru
+- channel_id: null
+  name: Invoice Indonesia
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@InvoiceIndonesia
+- channel_id: UCDaqDYhGmJdrlHr4h9LQ5uw
+  name: Gita Wirjawan
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCDaqDYhGmJdrlHr4h9LQ5uw
+- channel_id: UCV2jNjJEtO0Hr3b1Es3xPJg
+  name: NussaOfficial
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCV2jNjJEtO0Hr3b1Es3xPJg
+- channel_id: null
+  name: BaLiTa
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@BabaLiliTata
+- channel_id: null
+  name: Kastari Sentra and Diva The Series Official
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@KastariSentra
+- channel_id: UCdd9POu1PHwW7k8oiuWPweQ
+  name: Kinderflix - Video Belajar Untuk Balita
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCdd9POu1PHwW7k8oiuWPweQ
+- channel_id: null
+  name: Eno Bening
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@EnoBening
+- channel_id: null
+  name: Inspect History
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@InspectHistory
+- channel_id: UCNaxpmPg7VNCkYmyzkRs0Jw
+  name: Quipper Indonesia
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCNaxpmPg7VNCkYmyzkRs0Jw
+- channel_id: null
+  name: Indonesia Belajar
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@IndonesiaBelajar
+- channel_id: UCUW3StamxPqumrEGFkEArwQ
+  name: Kelas Pintar Indonesia
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCUW3StamxPqumrEGFkEArwQ
+- channel_id: UCakdJfP79yQWcuP8NbOBK8Q
+  name: Monetize AG
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCakdJfP79yQWcuP8NbOBK8Q
+- channel_id: null
+  name: Kurzgesagt
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@kurzgesagt
+- channel_id: null
+  name: Veritasium
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@veritasium
+- channel_id: null
+  name: 3Blue1Brown
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@3blue1brown
+- channel_id: null
+  name: CrashCourse
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@crashcourse
+- channel_id: null
+  name: Khan Academy
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@khanacademy
+- channel_id: null
+  name: TED-Ed
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TEDEd
+- channel_id: null
+  name: SmarterEveryDay
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@smartereveryday
+- channel_id: null
+  name: MinutePhysics
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@MinutePhysics
+- channel_id: null
+  name: SciShow
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@SciShow
+- channel_id: null
+  name: Mark Rober
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@MarkRober
+- channel_id: null
+  name: Numberphile
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@numberphile
+- channel_id: null
+  name: Physics Girl
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@physicsgirl
+- channel_id: null
+  name: Real Engineering
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@RealEngineering
+- channel_id: null
+  name: CGP Grey
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@CGPGrey
+- channel_id: null
+  name: Wendover Productions
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Wendoverproductions
+- channel_id: null
+  name: Tom Scott
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TomScottGo
+- channel_id: null
+  name: Polymatter
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@PolyMatter
+- channel_id: null
+  name: Half as Interesting
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@halfasinteresting
+- channel_id: null
+  name: Joe Scott
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@joescott
+- channel_id: null
+  name: Computerphile
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Computerphile
+- channel_id: null
+  name: AsapSCIENCE
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@AsapSCIENCE
+- channel_id: null
+  name: MIT OpenCourseWare
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@mitocw
+- channel_id: null
+  name: Domain of Science
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@DomainofScience
+- channel_id: null
+  name: NileRed
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@NileRed
+- channel_id: null
+  name: Steve Mould
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@SteveMould
+- channel_id: null
+  name: Up and Atom
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@upandatom
+- channel_id: null
+  name: Primer
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@PrimerBlobs
+- channel_id: null
+  name: Practical Engineering
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@PracticalEngineeringChannel
+- channel_id: null
+  name: Sabine Hossenfelder
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@SabineHossenfelder
+
+gaming:
+- channel_id: null
+  name: Jess No Limit
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@jessnolimit
+- channel_id: null
+  name: Frost Diamond
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@FrostDiamond
+- channel_id: null
+  name: MiawAug
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@MiawAug
+- channel_id: null
+  name: Windah Basudara
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@WindahBasudara
+- channel_id: null
+  name: Dyland PROS
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@DylandPROS
+- channel_id: UCCEs4SbttY3l73m0WsZix3g
+  name: kemaspakez
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCCEs4SbttY3l73m0WsZix3g
+- channel_id: null
+  name: Letda Hyper
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@LetdaHyper
+- channel_id: null
+  name: BangAlex
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@BangAlex
+- channel_id: null
+  name: EJGaming
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@EJGamingChannel
+- channel_id: null
+  name: Budi01 Gaming
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Budi01Gaming
+- channel_id: null
+  name: FrontaL Gaming
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@FrontaLGaming
+- channel_id: null
+  name: Zenmatho
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Zenmatho
+- channel_id: null
+  name: BeaconCream
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@BeaconCream
+- channel_id: null
+  name: EVOS Esports
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@EVOSEsports
+- channel_id: null
+  name: ONIC Esports
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@ONICEsports
+- channel_id: null
+  name: RRQ
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@teamrrq
+- channel_id: UC6ZnM9vJ7OFVVvzOACDkfGg
+  name: Bigetron TV
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC6ZnM9vJ7OFVVvzOACDkfGg
+- channel_id: null
+  name: Alter Ego
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@AlterEgoEsports
+- channel_id: UCirWugW5e03u3DUGA87s58A
+  name: Oura
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCirWugW5e03u3DUGA87s58A
+- channel_id: null
+  name: Zuxxy Gaming
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@ZuxxyGaming
+- channel_id: UC8YxknJQPo2hVYaJZX0MX0g
+  name: JLGaming
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC8YxknJQPo2hVYaJZX0MX0g
+- channel_id: UCcoWhqnQKi4Na_OUpiekOnQ
+  name: Mr.DailyWatch
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCcoWhqnQKi4Na_OUpiekOnQ
+- channel_id: UCHcfPMOrfGgCVMC2EPqAaUA
+  name: Fauzan Gaming
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCHcfPMOrfGgCVMC2EPqAaUA
+- channel_id: UCZSUYXRl020wdGpvThnt2_g
+  name: AtunsFamily
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCZSUYXRl020wdGpvThnt2_g
+- channel_id: UC9vKBg57CQ0jjZtaPsXBL6w
+  name: Billy Samuel
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC9vKBg57CQ0jjZtaPsXBL6w
+- channel_id: UCZOW4EOIU_jwHhybPh6q0LQ
+  name: Fatih GAMING
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCZOW4EOIU_jwHhybPh6q0LQ
+- channel_id: UCuXur6PjZTSy--300O1iTwA
+  name: Kimi Hime
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCuXur6PjZTSy--300O1iTwA
+- channel_id: null
+  name: Milyhya
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Milyhya
+- channel_id: null
+  name: PewDiePie
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@PewDiePie
+- channel_id: null
+  name: MrBeast Gaming
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@MrBeastGaming
+- channel_id: null
+  name: Markiplier
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@markiplier
+- channel_id: null
+  name: Jacksepticeye
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@jacksepticeye
+- channel_id: null
+  name: Shroud
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@shroud
+- channel_id: null
+  name: Ninja
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Ninja
+- channel_id: null
+  name: Valkyrae
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Valkyrae
+- channel_id: null
+  name: Ludwig
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@ludwig
+- channel_id: null
+  name: SkillUp
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@SkillUp
+- channel_id: UCNvzD7Z-g64bPXxGzaQaa4g
+  name: gameranx
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCNvzD7Z-g64bPXxGzaQaa4g
+- channel_id: null
+  name: theRadBrad
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@theRadBrad
+- channel_id: null
+  name: IGN
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@IGN
+- channel_id: null
+  name: GameSpot
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@GameSpot
+- channel_id: UCQeRaTukNYft1_6AZPACnog
+  name: 'Asmongold TV  '
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCQeRaTukNYft1_6AZPACnog
+  
+music:
+- channel_id: UChvdpkJqIaVo7kbKPtmKXhA
+  name: NAGASWARA Official Video Indonesian Music Channel
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UChvdpkJqIaVo7kbKPtmKXhA
+- channel_id: UCebb7o98FEA73WjNsCja5Xg
+  name: Trinity Optima Production
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCebb7o98FEA73WjNsCja5Xg
+- channel_id: null
+  name: Musica Studios
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@MusicaStudios
+- channel_id: UC6B6N7-2yNGDZtLhAeTj6mA
+  name: Tiara Andini
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC6B6N7-2yNGDZtLhAeTj6mA
+- channel_id: null
+  name: Fiersa Besari
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@FiersaBesari
+- channel_id: UCa_RUwqQU0oAxEI2lh4RvEQ
+  name: Weird Genius
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCa_RUwqQU0oAxEI2lh4RvEQ
+- channel_id: UCXWOf2fdWef8tbv1X27JHzw
+  name: NOAH OFFICIAL
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCXWOf2fdWef8tbv1X27JHzw
+- channel_id: UC_4lll6yMkKDUaINGy93nbQ
+  name: 'Judika Entertainment '
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC_4lll6yMkKDUaINGy93nbQ
+- channel_id: UCbygpKn8gqj1LMTMyROF9fg
+  name: Rizky Febian
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCbygpKn8gqj1LMTMyROF9fg
+- channel_id: UCVbDyLu0MatwYdm2Bh8E79w
+  name: Lyodra Official
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCVbDyLu0MatwYdm2Bh8E79w
+- channel_id: null
+  name: Raisa
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Raisa6690
+- channel_id: UCRggxhdYIz0zSvUgJmCWMGg
+  name: Tulus
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCRggxhdYIz0zSvUgJmCWMGg
+- channel_id: UCrorPql9QrqeSBNFNckfEcw
+  name: Nadin Amizah
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCrorPql9QrqeSBNFNckfEcw
+- channel_id: null
+  name: Hindia
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Hindia
+- channel_id: null
+  name: Idgitaf
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Idgitaf
+- channel_id: UC9NIsY1blRRxMUxhEGMCiDg
+  name: Brisia Jodie
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC9NIsY1blRRxMUxhEGMCiDg
+- channel_id: UCY1bGdpom5tXC9M8-Ahu8dQ
+  name: Bernadya
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCY1bGdpom5tXC9M8-Ahu8dQ
+- channel_id: null
+  name: Yura Yunita
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@YuraYunita
+- channel_id: UCrmQersjl9ooC0JZfp9CrtQ
+  name: Andmesh
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCrmQersjl9ooC0JZfp9CrtQ
+- channel_id: UC0k3T5AJYvKnuc52bB7rJTA
+  name: DENNY CAKNAN
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC0k3T5AJYvKnuc52bB7rJTA
+- channel_id: UCAdbNpr8dj9UUsgYrqln7nQ
+  name: RC Music
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCAdbNpr8dj9UUsgYrqln7nQ
+- channel_id: UCaAWRu53UW815hGTmxvHFbA
+  name: NIKI
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCaAWRu53UW815hGTmxvHFbA
+- channel_id: null
+  name: Rich Brian
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@richbrian
+- channel_id: null
+  name: Pamungkas
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Pamungkas
+- channel_id: null
+  name: Sal Priadi
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@SalPriadi
+- channel_id: null
+  name: Ardhito Pramono
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@ArdhitoPramono
+- channel_id: UCbWYJOfJVwdeX8I9UG5F8Yw
+  name: demajorsTV
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCbWYJOfJVwdeX8I9UG5F8Yw
+- channel_id: UCviMNWTULgetWFfSzwAukmA
+  name: Sheila on 7 Tv
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCviMNWTULgetWFfSzwAukmA
+- channel_id: UCqXWjpE38rpAvb6lPUdDmEQ
+  name: Falcon Music ID
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCqXWjpE38rpAvb6lPUdDmEQ
+- channel_id: UCq-Fj5jknLsUf-MWSy4_brA
+  name: T-Series
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA
+- channel_id: null
+  name: BLACKPINK
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@BLACKPINK
+- channel_id: UC3IZKseVpdzPSBaWxBxundA
+  name: HYBE LABELS
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA
+- channel_id: null
+  name: Ed Sheeran
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@EdSheeran
+- channel_id: null
+  name: Justin Bieber
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@justinbieber
+- channel_id: null
+  name: Taylor Swift
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TaylorSwift
+- channel_id: null
+  name: Billie Eilish
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@BillieEilish
+- channel_id: null
+  name: Dua Lipa
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@DuaLipa
+- channel_id: null
+  name: The Weeknd
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TheWeeknd
+- channel_id: null
+  name: Bruno Mars
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@BrunoMars
+- channel_id: null
+  name: Coldplay
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@coldplay
+- channel_id: null
+  name: Maroon 5
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Maroon5
+- channel_id: null
+  name: Imagine Dragons
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@ImagineDragons
+
+tech:
+- channel_id: null
+  name: GadgetIn
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@GadgetIn
+- channel_id: null
+  name: Jagat Review
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@JagatReview
+- channel_id: UCu_97c8LGl_tvHfIIfOtM9A
+  name: Pricebook
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCu_97c8LGl_tvHfIIfOtM9A
+- channel_id: null
+  name: Nerd Reviews
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@NerdReviews
+- channel_id: null
+  name: FlashGadget
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@FlashGadget
+- channel_id: UCg_vCUNRzKCOLxrrZqrQ0Yw
+  name: Bestindotech
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCg_vCUNRzKCOLxrrZqrQ0Yw
+- channel_id: UCaPa78XJgS-BrTxsVYHPA6A
+  name: Putu Reza
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCaPa78XJgS-BrTxsVYHPA6A
+- channel_id: null
+  name: Gadgetpedia
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@Gadgetpedia
+- channel_id: null
+  name: Kepoin Tekno
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@KepoinTekno
+- channel_id: UCwJJKqypHGA4p5tWMkAGUlA
+  name: Wasa Wirman
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCwJJKqypHGA4p5tWMkAGUlA
+- channel_id: UCNOq-1UZbX1qK2kwDgRk6sQ
+  name: Sobat Electronic
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCNOq-1UZbX1qK2kwDgRk6sQ
+- channel_id: null
+  name: Riswan Zone
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@RiswanZone
+- channel_id: UCWx0Evpjn5knbjwOjTCHV3A
+  name: Tech Tech
+  region: ID
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCWx0Evpjn5knbjwOjTCHV3A
+- channel_id: null
+  name: Tech In Asia ID
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@TechinAsiaID
+- channel_id: null
+  name: Agung Hapsah
+  region: ID
+  status: valid
+  url: https://www.youtube.com/@AgungHapsah
+- channel_id: null
+  name: MKBHD
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@mkbhd
+- channel_id: null
+  name: Linus Tech Tips
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@LinusTechTips
+- channel_id: null
+  name: Dave2D
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Dave2D
+- channel_id: null
+  name: JerryRigEverything
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@JerryRigEverything
+- channel_id: null
+  name: Unbox Therapy
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@UnboxTherapy
+- channel_id: null
+  name: Austin Evans
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@AustinEvans
+- channel_id: null
+  name: iJustine
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@iJustine
+- channel_id: null
+  name: The Verge
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TheVerge
+- channel_id: null
+  name: CNET
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@CNET
+- channel_id: null
+  name: Mrwhosetheboss
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Mrwhosetheboss
+- channel_id: null
+  name: ShortCircuit
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@ShortCircuit
+- channel_id: null
+  name: Hardware Canucks
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@HardwareCanucks
+- channel_id: null
+  name: Gamers Nexus
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@GamersNexus
+- channel_id: null
+  name: Lew Later
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@LewLater
+- channel_id: null
+  name: TechLinked
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TechLinked
+- channel_id: UCG7J20LhUeLl6y_Emi7OJrA
+  name: The Studio
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCG7J20LhUeLl6y_Emi7OJrA
+- channel_id: null
+  name: Tailosive Tech
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@TailosiveTech
+- channel_id: null
+  name: Max Tech
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@MaxTech
+- channel_id: UCO2x-p9gg9TLKneXlibGR7w
+  name: Snazzy Labs
+  region: GLOBAL
+  status: found_via_search
+  url: https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w
+- channel_id: null
+  name: Jarrod's Tech
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@JarrodsTech
+- channel_id: null
+  name: Techquickie
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Techquickie
+- channel_id: null
+  name: Lon.TV
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@LonSeidman
+- channel_id: null
+  name: Sara Dietschy
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@SaraDietschy
+- channel_id: null
+  name: Matt Wolfe
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@MattVidPro
+- channel_id: null
+  name: Fireship
+  region: GLOBAL
+  status: valid
+  url: https://www.youtube.com/@Fireship

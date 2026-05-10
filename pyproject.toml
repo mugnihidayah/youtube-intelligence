@@ -1,0 +1,30 @@
+[project]
+name = "youtube-intelligence"
+version = "1.0.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "db-dtypes>=1.5.1",
+    "dbt-bigquery>=1.11.1",
+    "dbt-core>=1.11.9",
+    "google-cloud-bigquery>=3.41.0",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "pandas>=2.3.3",
+    "prefect>=3.7.0",
+    "pyarrow>=24.0.0",
+    "python-dotenv>=1.2.2",
+    "pytrends>=4.9.2",
+    "pyyaml>=6.0.3",
+    "scrapetube>=2.6.0",
+    "textblob>=0.20.0",
+    "yt-dlp>=2026.3.17",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "pytest>=9.0.3",
+]

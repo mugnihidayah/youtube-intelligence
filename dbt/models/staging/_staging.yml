@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: stg_channels
+    description: "Cleaned channel data with size tier classification"
+    columns:
+      - name: channel_id
+        description: "YouTube channel unique ID"
+        tests:
+          - not_null
+          - unique
+      - name: channel_name
+        description: "Channel display name"
+      - name: niche
+        description: "Content niche: gaming, tech, education, music"
+        tests:
+          - accepted_values:
+              values: ['gaming', 'tech', 'education', 'music']
+      - name: region
+        description: "Channel region: ID or GLOBAL"
+        tests:
+          - accepted_values:
+              values: ['ID', 'GLOBAL']
+      - name: size_tier
+        description: "Channel size: mega, large, medium, small, micro"
+
+  - name: stg_videos
+    description: "Cleaned video data with derived metrics"
+    columns:
+      - name: video_id
+        description: "YouTube video unique ID"
+        tests:
+          - not_null
+          - unique
+      - name: channel_id
+        description: "Parent channel ID"
+        tests:
+          - not_null
+      - name: upload_date
+        description: "Video upload date"
+      - name: niche
+        description: "Content niche"
+      - name: duration_category
+        description: "short (<1m), medium (1-10m), long (10-60m), very_long (>1h)"

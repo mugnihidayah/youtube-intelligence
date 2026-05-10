@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: youtube_raw
+    database: youtube-intelligence-495520
+    schema: youtube_raw
+    tables:
+      - name: raw_channels
+        description: "Raw channel metadata scraped from YouTube"
+      - name: raw_videos
+        description: "Raw video metadata scraped from YouTube"

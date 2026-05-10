@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment
+.env
+.env.*
+
+# Credentials (NEVER commit)
+credentials/
+**/sa-key.json
+
+# Logs
+logs/
+*.log
+
+# dbt
+dbt/.user.yml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

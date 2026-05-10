@@ -1,0 +1,52 @@
+name: Weekly YouTube Pipeline
+
+on:
+  schedule:
+    # Every Sunday at 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  incremental-ingestion:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Setup Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Setup GCP credentials
+        run: echo '${{ secrets.GCP_SA_KEY }}' > credentials/sa-key.json
+
+      - name: Create .env file
+        run: |
+          echo "GOOGLE_APPLICATION_CREDENTIALS=credentials/sa-key.json" > .env
+          echo "GCP_PROJECT_ID=${{ secrets.GCP_PROJECT_ID }}" >> .env
+          echo "BQ_DATASET_RAW=youtube_raw" >> .env
+          echo "BQ_DATASET_ANALYTICS=youtube_analytics" >> .env
+
+      - name: Run incremental scraper
+        run: uv run python -m pipeline.src.flows.ingest_incremental --max-new 20
+
+      - name: Run dbt transformations
+        working-directory: ./dbt
+        run: |
+          uv run dbt run --profiles-dir .
+          uv run dbt test --profiles-dir .
+
+      - name: Pipeline summary
+        if: always()
+        run: |
+          echo "Pipeline completed at $(date -u)"
+          echo "Check BigQuery for updated data"

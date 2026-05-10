@@ -1,0 +1,12 @@
+youtube_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: youtube-intelligence-495520
+      dataset: youtube_analytics
+      keyfile: ../credentials/sa-key.json
+      threads: 4
+      timeout_seconds: 300
+      location: US
