@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 YouTube Market Intelligence
+# YouTube Market Intelligence
 
 ### End-to-end data platform that scrapes, transforms, and visualizes YouTube creator performance across 170+ channels and 4 content niches
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#-key-features)
@@ -47,33 +47,33 @@ Data Extraction → Cloud Data Warehouse → Analytics Engineering → Interacti
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔄 Automated Data Pipeline
+### Automated Data Pipeline
 - Scrapes 170+ YouTube channels without API keys using `yt-dlp`
 - **Incremental processing**: only new videos are scraped each run
 - Batch loading with automatic retry and error handling
 - Orchestrated with Prefect for flow management
 
-### 🏗️ Analytics Engineering (dbt)
+### Analytics Engineering (dbt)
 - **3-layer transformation**: staging → intermediate → marts
 - Star schema design with fact and dimension tables
 - Data quality tests (uniqueness, not-null, accepted values)
 - Automated deduplication and data cleansing
 
-### 📊 Interactive Dashboard
+### Interactive Dashboard
 - **4 analytical views**: Overview, Channel Leaderboard, Video Performance, Niche Explorer
 - Real-time filtering by niche, region, and performance tier
 - Radar charts, bar charts, and detailed data tables
 
-### ⏱️ Scheduled Updates
+### Scheduled Updates
 - GitHub Actions workflow for weekly automated pipeline
 - Incremental scraping reduces run time from ~4 hours to ~30 minutes
 - BigQuery Sandbox expiration management (60-day auto-refresh)
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Overview
 > KPI cards, views by niche, performance distribution, engagement comparison, and top performing videos
@@ -89,7 +89,7 @@ Data Extraction → Cloud Data Warehouse → Analytics Engineering → Interacti
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ### System Overview
 
@@ -139,7 +139,7 @@ PHASE 4 — SERVE                                                        │
 
 ---
 
-## 🔄 Data Pipeline
+## Data Pipeline
 
 ### Full Ingestion (First Run)
 
@@ -178,7 +178,7 @@ Channel C (new video): 11 videos on YouTube → 10 in BigQuery →  1 new → sc
 
 ---
 
-## 📐 Data Model
+## Data Model
 
 ### Star Schema (dbt)
 
@@ -255,7 +255,7 @@ Fact table at the center, dimension and aggregate tables radiate outward
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -334,7 +334,7 @@ cd dbt && uv run dbt run --profiles-dir .
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 youtube-intelligence/
@@ -404,7 +404,7 @@ youtube-intelligence/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Why This Choice |
 |---|---|---|
@@ -421,11 +421,11 @@ youtube-intelligence/
 
 ---
 
-## 📈 Data Coverage
+## Data Coverage
 
 ### Channels by Niche × Region
 
-| Niche | 🇮🇩 Indonesia | 🌍 Global | Total | Example Creators |
+| Niche | Indonesia | Global | Total | Example Creators |
 |---|---|---|---|---|
 | **Gaming** | ~25 | ~15 | ~40 | MrBeast Gaming, Windah Basudara, Jess No Limit |
 | **Tech** | ~15 | ~25 | ~40 | Fireship, MKBHD, Linus Tech Tips |
@@ -441,7 +441,7 @@ youtube-intelligence/
 
 ---
 
-## ⚡ Performance
+## Performance
 
 | Metric | Value |
 |---|---|
