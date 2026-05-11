@@ -120,7 +120,7 @@ export default function NichesPage() {
                 {data.overview.map((o: any) => (
                   <Radar key={o.niche} name={o.niche} dataKey={o.niche} stroke={NICHE_COLORS[o.niche]} fill={NICHE_COLORS[o.niche]} fillOpacity={0.12} strokeWidth={2} />
                 ))}
-                <Legend formatter={(v: string) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
+                <Legend formatter={(v) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
               </RadarChart>
             </ResponsiveContainer>
           </div>
@@ -136,7 +136,7 @@ export default function NichesPage() {
                 <Tooltip contentStyle={TT_STYLE} formatter={(v) => [fmt(Number(v)), "Avg Views"]} />
                 <Bar dataKey="Indonesia" fill="#ef4444" radius={[4, 4, 0, 0]} />
                 <Bar dataKey="Global" fill="#3b82f6" radius={[4, 4, 0, 0]} />
-                <Legend formatter={(v: string) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
+                <Legend formatter={(v) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -151,11 +151,11 @@ export default function NichesPage() {
             <BarChart data={durationData}>
               <XAxis dataKey="duration" tick={{ fill: "#8888a0", fontSize: 12 }} axisLine={false} tickLine={false} />
               <YAxis tick={{ fill: "#8888a0", fontSize: 11 }} axisLine={false} tickLine={false} tickFormatter={fmt} />
-              <Tooltip contentStyle={TT_STYLE} formatter={(v, name: string) => [fmt(Number(v)), name]} />
+              <Tooltip contentStyle={TT_STYLE} formatter={(v, name) => [fmt(Number(v)), name]} />
               {["gaming", "tech", "education", "music"].map(n => (
                 <Bar key={n} dataKey={n} fill={NICHE_COLORS[n]} radius={[4, 4, 0, 0]} />
               ))}
-              <Legend formatter={(v: string) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
+              <Legend formatter={(v) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
             </BarChart>
           </ResponsiveContainer>
         </div>
@@ -169,11 +169,11 @@ export default function NichesPage() {
             <BarChart data={uploadDayData}>
               <XAxis dataKey="day" tick={{ fill: "#8888a0", fontSize: 12 }} axisLine={false} tickLine={false} />
               <YAxis tick={{ fill: "#8888a0", fontSize: 11 }} axisLine={false} tickLine={false} />
-              <Tooltip contentStyle={TT_STYLE} formatter={(v, name: string) => [Number(v) + " videos", name]} />
+              <Tooltip contentStyle={TT_STYLE} formatter={(v, name) => [Number(v) + " videos", name]} />
               {["gaming", "tech", "education", "music"].map(n => (
                 <Bar key={n} dataKey={n} fill={NICHE_COLORS[n]} radius={[4, 4, 0, 0]} />
               ))}
-              <Legend formatter={(v: string) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
+              <Legend formatter={(v) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
             </BarChart>
           </ResponsiveContainer>
         </div>

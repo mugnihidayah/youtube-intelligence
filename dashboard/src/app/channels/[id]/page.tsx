@@ -228,7 +228,7 @@ export default function ChannelDetailPage() {
                     <Cell key={entry.tier} fill={TIER_COLORS[entry.tier] || "#555"} />
                   ))}
                 </Pie>
-                <Legend verticalAlign="bottom" formatter={(value: string) => (
+                <Legend verticalAlign="bottom" formatter={(value) => (
                   <span style={{ color: "#8888a0", fontSize: 12 }}>{value}</span>
                 )} />
                 <Tooltip contentStyle={{ background: "rgba(255,255,255,0.95)", border: "1px solid rgba(0,0,0,0.08)", borderRadius: 8, color: "#1a1a2e" }} />

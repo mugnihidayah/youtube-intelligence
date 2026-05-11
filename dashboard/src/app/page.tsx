@@ -194,7 +194,7 @@ export default function DashboardPage() {
                 </Pie>
                 <Legend
                   verticalAlign="bottom"
-                  formatter={(value: string) => (
+                  formatter={(value) => (
                     <span style={{ color: "#8888a0", fontSize: 12 }}>{value}</span>
                   )}
                 />
