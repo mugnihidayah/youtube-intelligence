@@ -133,7 +133,7 @@ export default function NichesPage() {
               <BarChart data={idVsGlobalData}>
                 <XAxis dataKey="niche" tick={{ fill: "#8888a0", fontSize: 12 }} axisLine={false} tickLine={false} />
                 <YAxis tick={{ fill: "#8888a0", fontSize: 11 }} axisLine={false} tickLine={false} tickFormatter={fmt} />
-                <Tooltip contentStyle={TT_STYLE} formatter={(v: number) => [fmt(v), "Avg Views"]} />
+                <Tooltip contentStyle={TT_STYLE} formatter={(v) => [fmt(Number(v)), "Avg Views"]} />
                 <Bar dataKey="Indonesia" fill="#ef4444" radius={[4, 4, 0, 0]} />
                 <Bar dataKey="Global" fill="#3b82f6" radius={[4, 4, 0, 0]} />
                 <Legend formatter={(v: string) => <span style={{ color: "#8888a0", fontSize: 12 }}>{v}</span>} />
@@ -151,7 +151,7 @@ export default function NichesPage() {
             <BarChart data={durationData}>
               <XAxis dataKey="duration" tick={{ fill: "#8888a0", fontSize: 12 }} axisLine={false} tickLine={false} />
               <YAxis tick={{ fill: "#8888a0", fontSize: 11 }} axisLine={false} tickLine={false} tickFormatter={fmt} />
-              <Tooltip contentStyle={TT_STYLE} formatter={(v: number, name: string) => [fmt(v), name]} />
+              <Tooltip contentStyle={TT_STYLE} formatter={(v, name: string) => [fmt(Number(v)), name]} />
               {["gaming", "tech", "education", "music"].map(n => (
                 <Bar key={n} dataKey={n} fill={NICHE_COLORS[n]} radius={[4, 4, 0, 0]} />
               ))}
@@ -169,7 +169,7 @@ export default function NichesPage() {
             <BarChart data={uploadDayData}>
               <XAxis dataKey="day" tick={{ fill: "#8888a0", fontSize: 12 }} axisLine={false} tickLine={false} />
               <YAxis tick={{ fill: "#8888a0", fontSize: 11 }} axisLine={false} tickLine={false} />
-              <Tooltip contentStyle={TT_STYLE} formatter={(v: number, name: string) => [v + " videos", name]} />
+              <Tooltip contentStyle={TT_STYLE} formatter={(v, name: string) => [Number(v) + " videos", name]} />
               {["gaming", "tech", "education", "music"].map(n => (
                 <Bar key={n} dataKey={n} fill={NICHE_COLORS[n]} radius={[4, 4, 0, 0]} />
               ))}

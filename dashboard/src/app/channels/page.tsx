@@ -137,8 +137,8 @@ export default function ChannelsPage() {
                   <YAxis type="category" dataKey="name" tick={{ fill: "#ccc", fontSize: 12 }} axisLine={false} tickLine={false} width={150} />
                   <Tooltip
                     contentStyle={{ background: "rgba(255, 255, 255, 0.95)", border: "1px solid rgba(0,0,0,0.08)", borderRadius: 8, color: "#1a1a2e", boxShadow: "0 4px 20px rgba(0,0,0,0.15)" }}
-                    formatter={(v: number) => [
-                      sort === "avg_engagement_rate" ? pct(v) : fmt(v),
+                    formatter={(v) => [
+                      sort === "avg_engagement_rate" ? pct(Number(v)) : fmt(Number(v)),
                       sort.replace(/_/g, " ")
                     ]}
                   />

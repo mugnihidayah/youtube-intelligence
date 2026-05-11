@@ -1,8 +1,28 @@
 import { BigQuery } from "@google-cloud/bigquery";
 
+function getCredentials() {
+  // Vercel: credentials from base64 env var
+  if (process.env.GCP_SA_KEY_BASE64) {
+    return JSON.parse(
+      Buffer.from(process.env.GCP_SA_KEY_BASE64, "base64").toString()
+    );
+  }
+
+  // Local: credentials from file
+  if (process.env.GOOGLE_APPLICATION_CREDENTIALS) {
+    return undefined; // BigQuery SDK reads from keyFilename
+  }
+
+  throw new Error("No GCP credentials configured");
+}
+
+const credentials = getCredentials();
+
 const bigquery = new BigQuery({
   projectId: process.env.GCP_PROJECT_ID,
-  keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
+  ...(credentials
+    ? { credentials }
+    : { keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS }),
 });
 
 const DATASET = process.env.BQ_DATASET || "youtube_analytics_marts";

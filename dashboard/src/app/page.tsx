@@ -152,7 +152,7 @@ export default function DashboardPage() {
                     color: "#1a1a2e", 
                     boxShadow: "0 4px 20px rgba(0,0,0,0.15)"
                   }}
-                  formatter={(v: number) => [fmt(v), "Views"]}
+                  formatter={(v) => [fmt(Number(v)), "Views"]}
                 />
                 <Bar dataKey="total_views" radius={[6, 6, 0, 0]}>
                   {byNiche.map((entry) => (
@@ -247,7 +247,7 @@ export default function DashboardPage() {
                   color: "#1a1a2e", 
                   boxShadow: "0 4px 20px rgba(0,0,0,0.15)"
                 }}
-                formatter={(v: number) => [pct(v), "Engagement"]}
+                formatter={(v) => [pct(Number(v)), "Engagement"]}
               />
               <Bar dataKey="avg_engagement" radius={[0, 6, 6, 0]}>
                 {byNiche.map((entry) => (
