@@ -97,7 +97,7 @@ In addition to the custom Next.js dashboard, this project includes a Power BI re
 ### Overview
 > Executive summary with total channels, total videos, total views, average engagement rate, total views by niche, ID vs Global comparison, performance tier distribution, and average engagement rate by niche.
 
-![Power BI Executive Overview](docs/images/verview.png)
+![Power BI Executive Overview](docs/images/overview.png)
 
 ### Market Benchmark
 > Niche-level benchmarking across average views per video, average uploads in the last 30 days, average views per subscriber, and channel size tier distribution by niche.
