@@ -11,7 +11,7 @@
 ![Prefect](https://img.shields.io/badge/Prefect-Orchestration-024DFD?logo=prefect&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[Dashboard](#-dashboard-preview) · [Architecture](#-architecture) · [Data Model](#-data-model) · [Quick Start](#-quick-start) · [Tech Stack](#-tech-stack)
+[Dashboard](#-dashboard-preview) · [Power BI](#-power-bi-report-preview) · [Architecture](#-architecture) · [Data Model](#-data-model) · [Quick Start](#-quick-start) · [Tech Stack](#-tech-stack)
 
 </div>
 
@@ -22,6 +22,7 @@
 - [Overview](#overview)
 - [Key Features](#-key-features)
 - [Dashboard Preview](#-dashboard-preview)
+- [Power BI Report Preview](#-power-bi-report-preview)
 - [Architecture](#-architecture)
 - [Data Pipeline](#-data-pipeline)
 - [Data Model](#-data-model)
@@ -86,6 +87,43 @@ Data Extraction → Cloud Data Warehouse → Analytics Engineering → Interacti
 
 ### Niche Explorer
 > Deep-dive comparison with radar charts, ID vs Global analysis, duration optimization, and upload day distribution
+
+---
+
+## Power BI Report Preview
+
+In addition to the custom Next.js dashboard, this project includes a Power BI report designed as a stakeholder-facing insight layer. The report consumes the dbt mart tables in BigQuery and focuses on market benchmarking, channel opportunities, and content strategy patterns.
+
+### Overview
+> Executive summary with total channels, total videos, total views, average engagement rate, total views by niche, ID vs Global comparison, performance tier distribution, and average engagement rate by niche.
+
+![Power BI Executive Overview](docs/images/verview.png)
+
+### Market Benchmark
+> Niche-level benchmarking across average views per video, average uploads in the last 30 days, average views per subscriber, and channel size tier distribution by niche.
+
+![Power BI Market Benchmark](docs/images/market-benchmark.png)
+
+### Channel Opportunity Map
+> Channel opportunity analysis with subscriber-to-average-view mapping, top efficient channels by average views per subscriber, and large channels that underperform on efficiency.
+
+![Power BI Channel Opportunity Map](docs/images/channel-opportunity-map.png)
+
+### Content Strategy
+> Content performance analysis by duration category, live vs non-live format, upload activity vs average views, and average views by performance tier.
+
+![Power BI Content Strategy](docs/images/content-strategy.png)
+
+### Power BI Data Sources
+
+| Report Area | BigQuery Mart Table | Purpose |
+|---|---|---|
+| Overview | `fct_video_performance`, `agg_niche_overview` | KPI cards, niche split, region comparison, performance tier distribution |
+| Market Benchmark | `agg_niche_overview`, `agg_channel_metrics` | Niche benchmarks, upload activity, views per subscriber, size tier mix |
+| Channel Opportunity Map | `agg_channel_metrics`, `dim_channels` | Channel efficiency, subscriber-to-view mapping, underperforming large channels |
+| Content Strategy | `fct_video_performance`, `agg_channel_metrics` | Duration analysis, live format comparison, upload activity, performance tiers |
+
+> Screenshot files should be placed under `docs/images/` using the filenames referenced above.
 
 ---
 
@@ -413,6 +451,7 @@ youtube-intelligence/
 | **Data Warehouse** | Google BigQuery | Serverless, free Sandbox tier, SQL analytics |
 | **Transformation** | dbt-core | SQL-based modeling, testing, documentation |
 | **Dashboard** | Next.js 15 + TypeScript | SSR, API routes, fast development |
+| **BI Reporting** | Power BI | Executive insight layer for stakeholder-facing analysis |
 | **Charts** | Recharts | React-native, composable, customizable |
 | **Styling** | Custom CSS | Dark theme, glassmorphism, no framework overhead |
 | **Icons** | Lucide React | Clean SVG icons, tree-shakeable |
