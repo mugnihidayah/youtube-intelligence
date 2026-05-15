@@ -20,17 +20,17 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Key Features](#-key-features)
-- [Dashboard Preview](#-dashboard-preview)
-- [Power BI Report Preview](#-power-bi-report-preview)
-- [Architecture](#-architecture)
-- [Data Pipeline](#-data-pipeline)
-- [Data Model](#-data-model)
-- [Quick Start](#-quick-start)
-- [Project Structure](#-project-structure)
-- [Tech Stack](#-tech-stack)
-- [Data Coverage](#-data-coverage)
-- [Performance](#-performance)
+- [Key Features](#key-features)
+- [Dashboard Preview](#dashboard-preview)
+- [Power BI Report Preview](#power-bi-report-preview)
+- [Architecture](#architecture)
+- [Data Pipeline](#data-pipeline)
+- [Data Model](#data-model)
+- [Quick Start](#quick-start)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+- [Data Coverage](#data-coverage)
+- [Performance](#performance)
 - [License](#license)
 
 ---
